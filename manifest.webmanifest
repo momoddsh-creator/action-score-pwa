@@ -1,0 +1,10 @@
+{
+  "name": "行动等级积分器",
+  "short_name": "行动积分",
+  "description": "记录并观察每天的个人行动结构。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#f6f5f1",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
